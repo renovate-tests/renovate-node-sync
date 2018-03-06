@@ -1,0 +1,16 @@
+{
+  "engines": {
+    "node": "8.9.3"
+  },
+  "renovate": {
+    "node": {
+      "enabled": true
+    },
+    "supportPolicy": [
+      "lts_latest"
+    ]
+  },
+  "name": "renovate-node-sync",
+  "version": "1.0.0",
+  "license": "Apache-2.0"
+}
