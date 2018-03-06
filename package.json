@@ -10,6 +10,7 @@
       "lts_latest"
     ]
   },
+  "private": true,
   "name": "renovate-node-sync",
   "version": "1.0.0",
   "license": "Apache-2.0"
